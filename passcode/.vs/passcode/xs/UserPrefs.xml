@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A6E7D4CE-98F8-47E2-A379-C328DEF41B1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="passcode/Program.cs">
+    <Files>
+      <File FileName="passcode/Program.cs" Line="16" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.passcode PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

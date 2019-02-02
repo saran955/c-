@@ -1,0 +1,11 @@
+/Users/user/Projects/forloop/forloop/bin/Debug/netcoreapp2.1/forloop.deps.json
+/Users/user/Projects/forloop/forloop/bin/Debug/netcoreapp2.1/forloop.runtimeconfig.json
+/Users/user/Projects/forloop/forloop/bin/Debug/netcoreapp2.1/forloop.runtimeconfig.dev.json
+/Users/user/Projects/forloop/forloop/bin/Debug/netcoreapp2.1/forloop.dll
+/Users/user/Projects/forloop/forloop/bin/Debug/netcoreapp2.1/forloop.pdb
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.csprojAssemblyReference.cache
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.csproj.CoreCompileInputs.cache
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.AssemblyInfoInputs.cache
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.AssemblyInfo.cs
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.dll
+/Users/user/Projects/forloop/forloop/obj/Debug/netcoreapp2.1/forloop.pdb
